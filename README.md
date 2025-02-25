@@ -8,7 +8,7 @@ Carga de credenciales en el constructor: Se inicializa el Map con algunos usuari
 Validación en validar(): Se compara la entrada del usuario con los valores del Map.
 Mostrar mensaje: Se mantiene el JOptionPane para mostrar si la autenticación fue exitosa o fallida.
 
-#Java Swing
+Agegando conceptos
 **Java Swing es una librería de Java para crear aplicaciones gráficas GUI (Graphical User Interface)
 o también conocidas como aplicaciones de escritorio. Podemos aplicar el patrón de diseño MVC (Modelo-Vista-Controlador).
 Vista (Formulario con los componentes Visuales de nuestra aplicación), 
