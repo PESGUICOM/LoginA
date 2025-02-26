@@ -53,7 +53,7 @@ public class Forma extends JFrame{
     </dependency>
 </dependencies>
 **
-#Modo oscuro (Dracula)- Modo claro (Light)
+# Modo oscuro (Dracula)- Modo claro (Light)
 **laf = Look and Feel (apariencia)
 clase Flat y método setup para cambiar la apariencia
 modo oscuro Ej: FlatDarculaLaf.setup();
